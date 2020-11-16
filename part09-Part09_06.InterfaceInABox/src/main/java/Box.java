@@ -1,7 +1,6 @@
 
 import java.util.ArrayList;
 
-
 public class Box  implements Packable {
     
     private double maximumCapacity;
