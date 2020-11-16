@@ -1,7 +1,6 @@
 
 import java.util.HashMap;
 
-
 public class IOU {
     
     private HashMap<String, Double> myCreditors;

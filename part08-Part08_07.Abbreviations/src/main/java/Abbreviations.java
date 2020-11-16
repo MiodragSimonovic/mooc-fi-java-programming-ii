@@ -1,7 +1,6 @@
 
 import java.util.HashMap;
 
-
 public class Abbreviations {
     
     HashMap<String, String> abbreviations;

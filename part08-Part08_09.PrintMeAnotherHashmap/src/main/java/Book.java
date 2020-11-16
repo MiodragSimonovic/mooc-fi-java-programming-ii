@@ -39,4 +39,5 @@ public class Book {
         return "Name: " + this.name + " (" + this.publicationYear + ")\n"
                 + "Contents: " + this.contents;
     }
+    
 }
